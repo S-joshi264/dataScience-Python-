@@ -1,0 +1,84 @@
+[ 
+  {
+    "user_id": "U001",
+    "name": "Shubham Sharma",
+    "age": 21,
+    "gender": "Male",
+    "friends": [
+      "U002",
+      "U003",
+      "U004"
+    ],
+    "liked_pages": [
+      "Coding Ninjas",
+      "GeeksforGeeks",
+      "AI Memes"
+    ],
+    "location": "Dehradun",
+    "last_active": "2025-12-01",
+    "posts_count": 45
+  },
+  {
+    "user_id": "U002",
+    "name": "  Ankit Verma ",
+    "age": null,
+    "gender": "Male",
+    "friends": [
+      "U001",
+      "U003"
+    ],
+    "liked_pages": [
+      "Travel Diaries",
+      "Photography",
+      "Photography"
+    ],
+    "location": "",
+    "last_active": "2025/11/28",
+    "posts_count": 12
+  },
+  {
+    "user_id": "U003",
+    "name": "Priya Singh",
+    "age": 20,
+    "gender": "Female",
+    "friends": ["U007","U005"],
+    "liked_pages": [
+      "Food Lovers",
+      null,
+      "Cooking Tips"
+    ],
+    "location": "Delhi",
+    "last_active": null,
+    "posts_count": 0
+  },
+  {
+    "user_id": "U005",
+    "name": "Rahul",
+    "age": -1,
+    "gender": "M",
+    "friends": [
+      "U001"
+    ],
+    "liked_pages": [],
+    "location": "Bangalore",
+    "last_active": "15-10-2025",
+    "posts_count": 8
+  },
+  {
+    "user_id": "U007",
+    "name": "Aman",
+    "age": 23,
+    "gender": "",
+    "friends": [
+      "U001"
+    ],
+    "liked_pages": [
+      "Tech News",
+      "AI Memes",
+      "Tech News"
+    ],
+    "location": "Noida",
+    "last_active": "2025-11-30",
+    "posts_count": 60
+  }
+]
